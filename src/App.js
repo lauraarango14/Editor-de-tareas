@@ -26,7 +26,7 @@ function App() {
   const createTask = (task) => {
     //Aquí agregaremos toda la funcionalidad de crear la tarea para q sea adicionada al container
     setTasks([...tasks, task]);
-    
+    // hola
   };
   
   const deleteTask = (id) =>{
